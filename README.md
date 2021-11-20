@@ -11,14 +11,15 @@
 
 ## Results
 
-		After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the suburban and rural
-	areas.  From the data that was collected, the urban areas had more usage of ride-sharing than the suburban and rural areas 
-	combined.  This is true because there is higher population in the urban areas versus the suburban and rural areas.  Also, much 
-	more money was being made in the urban areas because of the amount of usage.  This statistic agrees with the data becaus of the
-	same reason as the amount of usage; the higher population means higer usage which equals to more money being made. On the 
-	other hand, the average amount per ride and average amount per driver was higher for the rural areas. This makes sense because 
-	there was less usage and ride-sharing probably had to charge more to make up for the low amount of usage.  The .count, .sum 
-	and .mean functions were used to calculate the results.
+		After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the
+	suburban and rural areas.  From the data that was collected, the urban areas had more usage of ride-sharing 
+	than the suburban and rural areas combined.  This is true because there is higher population in the urban 
+	areas versus the suburban and rural areas.  Also, much more money was being made in the urban areas because 
+	of the amount of usage.  This statistic agrees with the data becaus of the same reason as the amount of usage;
+	the higher population means higer usage which equals to more money being made. On the other hand, the average 
+	amount per ride and average amount per driver was higher for the rural areas. This makes sense because there 
+	was less usage and ride-sharing probably had to charge more to make up for the low amount of usage.  The .count,
+	.sum and .mean functions were used to calculate the results.
 
 
 	total_rides = pyber_data_df.groupby(["type"]).count()["ride_id"]
