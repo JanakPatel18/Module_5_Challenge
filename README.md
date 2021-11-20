@@ -54,7 +54,10 @@
 
 
 ## Summary
-
-	In summary of the analysis, I would suggest to make the fares a little closer in amount so there may be more usage in the
-	rural and suburban areas.  Also, I would also increase the number of drivers in the rural and suburban areas to make the
-	ride-sharing more reasonable in price.  This could potentially encourage more people to use ride-sharing.
+	
+	In summary of the analysis, it was found that there was a higher usage of ride-sharing in the urban areas because of the
+	higher population in them.  Also, it was found there was a higher amount of money being generated in the urban areas because
+	of the same reason.  I would suggest to the CEO that to make more money in the suburban and rural areas, I would ass more
+	drivers in those areas.  On the other hand, if she wanted to increase the amount of money being generated in the urban areas,
+	I might consider reducing the amount if costs for one ride to encourage more people to use the service.  Another suggestion
+	would be to increase the the number of drivers in all 3 areas to give the population more options to use the service.
