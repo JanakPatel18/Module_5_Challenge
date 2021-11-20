@@ -40,7 +40,8 @@
 	pyber_summary_df["Total Drivers"] = pyber_summary_df["Total Drivers"].map('{:,}'.format)
 	pyber_summary_df["Total Fares"] = pyber_summary_df["Total Fares"].map('${:,}'.format)
 	pyber_summary_df["Average Fare per Ride"] = pyber_summary_df["Average Fare per Ride"].map('${:,.2f}'.format)
-	pyber_summary_df["Average Fare per Driver"] = pyber_summary_df["Average Fare per Driver"].map('${:,.2f}'.format)
+	pyber_summary_df["Average Fare per Driver"] = pyber_summary_df["Average Fare per Driver"].map
+				('${:,.2f}'.format)
 	pyber_summary_df.head()
 
 	This code was used to show the fare by city type from January to the end of April.
