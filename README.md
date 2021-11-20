@@ -5,9 +5,9 @@
 
 ## Overview of the Analysis
 
-		The purpose of the analysis of this data was to see how different city types use ride-sharing.  In the analysis, there
-	were different factors which were analyzed to see the usefulness of ride-sharing.  Those factors were the city types, fares 
-	and average fare per ride, drivers and average fare per driver.
+		The purpose of the analysis of this data was to see how different city types use ride-sharing.  In
+	the analysis, there were different factors which were analyzed to see the usefulness of ride-sharing.  Those 
+	factors were the city types, fares and average fare per ride, drivers and average fare per driver.
 
 ## Results
 
