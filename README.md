@@ -11,10 +11,10 @@
 
 ## Results
 
-		After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the suburban and rural areas.
-	From the data that was collected, the urban areas had more usage of ride-sharing than the suburban and rural areas combined.
-	This is true because there is higher population in the urban areas versus the suburban and rural areas.  Also, much more 
-	money was being made in the urban areas because of the amount of usage.  This statistic agrees with the data becaus of the
+		After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the suburban and rural
+	areas.  From the data that was collected, the urban areas had more usage of ride-sharing than the suburban and rural areas 
+	combined.  This is true because there is higher population in the urban areas versus the suburban and rural areas.  Also, much 
+	more money was being made in the urban areas because of the amount of usage.  This statistic agrees with the data becaus of the
 	same reason as the amount of usage; the higher population means higer usage which equals to more money being made. On the 
 	other hand, the average amount per ride and average amount per driver was higher for the rural areas. This makes sense because 
 	there was less usage and ride-sharing probably had to charge more to make up for the low amount of usage.  The .count, .sum 
@@ -55,9 +55,9 @@
 
 ## Summary
 	
-		In summary of the analysis, it was found that there was a higher usage of ride-sharing in the urban areas because of the
-	higher population in them.  Also, it was found there was a higher amount of money being generated in the urban areas because
-	of the same reason.  I would suggest to the CEO that to make more money in the suburban and rural areas, I would ass more
+		In summary of the analysis, it was found that there was a higher usage of ride-sharing in the urban areas because of 
+	the higher population in them.  Also, it was found there was a higher amount of money being generated in the urban areas because
+	of the same reason.  I would suggest to the CEO in order to make more money in the suburban and rural areas, I would add more
 	drivers in those areas.  On the other hand, if she wanted to increase the amount of money being generated in the urban areas,
 	I might consider reducing the amount if costs for one ride to encourage more people to use the service.  Another suggestion
 	would be to increase the the number of drivers in all 3 areas to give the population more options to use the service.
