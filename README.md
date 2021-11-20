@@ -61,5 +61,5 @@
 	being generated in the urban areas because of the same reason.  I would suggest to the CEO in order to make
 	more money in the suburban and rural areas, I would add more drivers in those areas.  On the other hand, if
 	she wanted to increase the amount of money being generated in the urban areas, I might consider reducing 
-	the amount if costs for one ride to encourage more people to use the service.  Another suggestion would be 
+	the amount of cost for one ride to encourage more people to use the service.  Another suggestion would be 
 	to increase the the number of drivers in all 3 areas to give the population more options to use the service.
