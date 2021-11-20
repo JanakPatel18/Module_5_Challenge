@@ -5,13 +5,13 @@
 
 ## Overview of the Analysis
 
-	The purpose of the analysis of this data was to see how different city types use ride-sharing.  In the analysis, there were
-	different factors which were analyzed to see the usefulness of ride-sharing.  Those factors were the city types, fares and
-	average fare per ride, drivers and average fare per driver.
+		The purpose of the analysis of this data was to see how different city types use ride-sharing.  In the analysis, there
+	were different factors which were analyzed to see the usefulness of ride-sharing.  Those factors were the city types, fares 
+	and average fare per ride, drivers and average fare per driver.
 
 ## Results
 
-	After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the suburban and rural areas.
+		After analyzing the data, it was noticed that the urban areas were using ride-sharing more than the suburban and rural areas.
 	From the data that was collected, the urban areas had more usage of ride-sharing than the suburban and rural areas combined.
 	This is true because there is higher population in the urban areas versus the suburban and rural areas.  Also, much more 
 	money was being made in the urban areas because of the amount of usage.  This statistic agrees with the data becaus of the
@@ -55,7 +55,7 @@
 
 ## Summary
 	
-	In summary of the analysis, it was found that there was a higher usage of ride-sharing in the urban areas because of the
+		In summary of the analysis, it was found that there was a higher usage of ride-sharing in the urban areas because of the
 	higher population in them.  Also, it was found there was a higher amount of money being generated in the urban areas because
 	of the same reason.  I would suggest to the CEO that to make more money in the suburban and rural areas, I would ass more
 	drivers in those areas.  On the other hand, if she wanted to increase the amount of money being generated in the urban areas,
